@@ -1,0 +1,5 @@
+C:\Users\dwalkingstick\OneDrive - Hypertec\Repos\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\bin\Release\net5.0\publish\CreateSSLCertLowerNetVersion.exe
+C:\Users\dwalkingstick\OneDrive - Hypertec\Repos\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\bin\Release\net5.0\publish\CreateSSLCertLowerNetVersion.dll
+C:\Users\dwalkingstick\OneDrive - Hypertec\Repos\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\bin\Release\net5.0\publish\CreateSSLCertLowerNetVersion.deps.json
+C:\Users\dwalkingstick\OneDrive - Hypertec\Repos\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\bin\Release\net5.0\publish\CreateSSLCertLowerNetVersion.runtimeconfig.json
+C:\Users\dwalkingstick\OneDrive - Hypertec\Repos\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\bin\Release\net5.0\publish\CreateSSLCertLowerNetVersion.pdb

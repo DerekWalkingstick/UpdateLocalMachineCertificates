@@ -1,0 +1,36 @@
+C:\Users\dwalkingstick\OneDrive - Hypertec\Repos\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\bin\Debug\net5.0\CreateSSLCertLowerNetVersion.exe
+C:\Users\dwalkingstick\OneDrive - Hypertec\Repos\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\bin\Debug\net5.0\CreateSSLCertLowerNetVersion.deps.json
+C:\Users\dwalkingstick\OneDrive - Hypertec\Repos\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\bin\Debug\net5.0\CreateSSLCertLowerNetVersion.runtimeconfig.json
+C:\Users\dwalkingstick\OneDrive - Hypertec\Repos\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\bin\Debug\net5.0\CreateSSLCertLowerNetVersion.runtimeconfig.dev.json
+C:\Users\dwalkingstick\OneDrive - Hypertec\Repos\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\bin\Debug\net5.0\CreateSSLCertLowerNetVersion.dll
+C:\Users\dwalkingstick\OneDrive - Hypertec\Repos\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\bin\Debug\net5.0\CreateSSLCertLowerNetVersion.pdb
+C:\Users\dwalkingstick\OneDrive - Hypertec\Repos\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\obj\Debug\net5.0\CreateSSLCertLowerNetVersion.csproj.AssemblyReference.cache
+C:\Users\dwalkingstick\OneDrive - Hypertec\Repos\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\obj\Debug\net5.0\Interop.CERTENROLLLib.dll
+C:\Users\dwalkingstick\OneDrive - Hypertec\Repos\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\obj\Debug\net5.0\CreateSSLCertLowerNetVersion.csproj.ResolveComReference.cache
+C:\Users\dwalkingstick\OneDrive - Hypertec\Repos\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\obj\Debug\net5.0\CreateSSLCertLowerNetVersion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dwalkingstick\OneDrive - Hypertec\Repos\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\obj\Debug\net5.0\CreateSSLCertLowerNetVersion.AssemblyInfoInputs.cache
+C:\Users\dwalkingstick\OneDrive - Hypertec\Repos\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\obj\Debug\net5.0\CreateSSLCertLowerNetVersion.AssemblyInfo.cs
+C:\Users\dwalkingstick\OneDrive - Hypertec\Repos\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\obj\Debug\net5.0\CreateSSLCertLowerNetVersion.csproj.CoreCompileInputs.cache
+C:\Users\dwalkingstick\OneDrive - Hypertec\Repos\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\obj\Debug\net5.0\CreateSSLCertLowerNetVersion.dll
+C:\Users\dwalkingstick\OneDrive - Hypertec\Repos\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\obj\Debug\net5.0\refint\CreateSSLCertLowerNetVersion.dll
+C:\Users\dwalkingstick\OneDrive - Hypertec\Repos\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\obj\Debug\net5.0\CreateSSLCertLowerNetVersion.pdb
+C:\Users\dwalkingstick\OneDrive - Hypertec\Repos\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\obj\Debug\net5.0\CreateSSLCertLowerNetVersion.genruntimeconfig.cache
+C:\Users\dwalkingstick\OneDrive - Hypertec\Repos\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\obj\Debug\net5.0\ref\CreateSSLCertLowerNetVersion.dll
+D:\SSLCertScripts\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\bin\Debug\net5.0\CreateSSLCertLowerNetVersion.exe
+D:\SSLCertScripts\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\bin\Debug\net5.0\CreateSSLCertLowerNetVersion.deps.json
+D:\SSLCertScripts\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\bin\Debug\net5.0\CreateSSLCertLowerNetVersion.runtimeconfig.json
+D:\SSLCertScripts\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\bin\Debug\net5.0\CreateSSLCertLowerNetVersion.runtimeconfig.dev.json
+D:\SSLCertScripts\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\bin\Debug\net5.0\CreateSSLCertLowerNetVersion.dll
+D:\SSLCertScripts\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\bin\Debug\net5.0\CreateSSLCertLowerNetVersion.pdb
+D:\SSLCertScripts\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\obj\Debug\net5.0\CreateSSLCertLowerNetVersion.csproj.AssemblyReference.cache
+D:\SSLCertScripts\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\obj\Debug\net5.0\Interop.CERTENROLLLib.dll
+D:\SSLCertScripts\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\obj\Debug\net5.0\CreateSSLCertLowerNetVersion.csproj.ResolveComReference.cache
+D:\SSLCertScripts\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\obj\Debug\net5.0\CreateSSLCertLowerNetVersion.GeneratedMSBuildEditorConfig.editorconfig
+D:\SSLCertScripts\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\obj\Debug\net5.0\CreateSSLCertLowerNetVersion.AssemblyInfoInputs.cache
+D:\SSLCertScripts\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\obj\Debug\net5.0\CreateSSLCertLowerNetVersion.AssemblyInfo.cs
+D:\SSLCertScripts\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\obj\Debug\net5.0\CreateSSLCertLowerNetVersion.csproj.CoreCompileInputs.cache
+D:\SSLCertScripts\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\obj\Debug\net5.0\CreateSSLCertLowerNetVersion.dll
+D:\SSLCertScripts\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\obj\Debug\net5.0\refint\CreateSSLCertLowerNetVersion.dll
+D:\SSLCertScripts\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\obj\Debug\net5.0\CreateSSLCertLowerNetVersion.pdb
+D:\SSLCertScripts\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\obj\Debug\net5.0\CreateSSLCertLowerNetVersion.genruntimeconfig.cache
+D:\SSLCertScripts\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\obj\Debug\net5.0\ref\CreateSSLCertLowerNetVersion.dll

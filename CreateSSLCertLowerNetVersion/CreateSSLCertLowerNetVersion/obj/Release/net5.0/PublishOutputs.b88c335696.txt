@@ -1,0 +1,5 @@
+D:\SSLCertScripts\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\bin\Release\net5.0\publish\CreateSSLCertLowerNetVersion.exe
+D:\SSLCertScripts\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\bin\Release\net5.0\publish\CreateSSLCertLowerNetVersion.dll
+D:\SSLCertScripts\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\bin\Release\net5.0\publish\CreateSSLCertLowerNetVersion.deps.json
+D:\SSLCertScripts\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\bin\Release\net5.0\publish\CreateSSLCertLowerNetVersion.runtimeconfig.json
+D:\SSLCertScripts\CreateSSLCertLowerNetVersion\CreateSSLCertLowerNetVersion\bin\Release\net5.0\publish\CreateSSLCertLowerNetVersion.pdb
